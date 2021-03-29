@@ -13,5 +13,4 @@ Javascript öğrenici
 </body>
 </html>
 
-**© [bkahnwald]
-(https://github.com/bkahnwald)**
+**© [bkahnwald](https://github.com/bkahnwald)**
