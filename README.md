@@ -6,9 +6,7 @@ Javascript öğrenici
 <html>
 <body>
 
-<h1>Discord</h1>
-
-<button type="button" onclick="alert('https://discord.gg/FJyAQQSJUp')">Click</button>
+<h1>[Discord](https://discord.gg/FJyAQQSJUp)</h1>
 
 </body>
 </html>
