@@ -1,5 +1,5 @@
 ```js
-Javascript öğrenici
+Javascript
 ```
 
 <!DOCTYPE html>
