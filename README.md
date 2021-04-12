@@ -6,7 +6,7 @@ Javascript
 <html>
 <body>
 
-[Discord](https://discord.gg/FJyAQQSJUp)
+ https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png [Discord](https://discord.gg/FJyAQQSJUp)
 
 </body>
 </html>
