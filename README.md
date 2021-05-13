@@ -6,7 +6,7 @@ Javascript
 <html>
 <body>
 
-[Discord](https://discord.gg/pWEcf4ewmE)
+[Discord](https://discord.gg/ZHfdCUCHFG)
 
 </body>
 </html>
