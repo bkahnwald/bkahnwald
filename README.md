@@ -15,8 +15,11 @@ Javascript
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](spotify-bkahnwald.vercel.app)](https://open.spotify.com/user/4yzy8fn4farrgobe0p110l2z3)
-
+&nbsp; <br>
+    ### Spotify Playing
+[<img_src="spotify-brown.vercel.app" alt="bkahnwald Spotify" width="350" />]
+(https://open.spotify.com/user/4yzy8fn4farrgobe0p110l2z3)
+    <br/>
   </td>
   <td width="50%">
   </td>
