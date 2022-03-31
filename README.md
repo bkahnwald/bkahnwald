@@ -1,7 +1,5 @@
 ### bkahnwald
 #### my links
-![my links](https://media.discordapp.net/attachments/830717954747400202/909453076321173535/Saturn.jpg)
-
 
 
 
