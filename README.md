@@ -4,4 +4,4 @@
 ![Profile views](https://gpvc.arturio.dev/bkahnwald)  
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/357881702066028554)](https://discord.com/users/357881702066028554)
+[![Discord Presence](https://lanyard.cnrad.dev/api/357881702066028554?hideDiscrim=true)](https://discord.com/users/357881702066028554)
